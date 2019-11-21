@@ -20,8 +20,8 @@ p {
   margin-top: 30px;
   padding: 45px 15px 15px 15px;
   text-align: justify;  
-  height: 220px;
-  overflow: auto;
+  height: 250px;
+  overflow: hidden;
 }
 .top-right
 {
